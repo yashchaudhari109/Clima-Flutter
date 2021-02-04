@@ -53,7 +53,7 @@ class _LocationScreenState extends State<LocationScreen> {
                       style: kTempTextStyle,
                     ),
                     Text(
-                      '☀️',
+                      '☀☀️',
                       style: kConditionTextStyle,
                     ),
                   ],
